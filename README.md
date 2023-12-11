@@ -6,13 +6,13 @@ This code is a library for calculating derived functions.
 
 To install the library, use pip:
 
-    pip install pyder
+    pip install pyderivative==1.2
 
 ## Usage
 
 To use the library, import the `Derivative` class from the library:
 
-    from pyder.Derivative import Derivative
+    from pyderivative.Derivative import Derivative
 
 Then you can create an instance of the `Derivative` class by passing the function you want to differentiate as an argument:
 
