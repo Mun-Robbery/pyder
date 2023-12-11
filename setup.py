@@ -7,7 +7,7 @@ def readme():
 
 
 setup(
-  name='pyder',
+  name='pyderivative',
   version='1.0',
   author='antrisole',
   author_email='gleb.zar.03@mail.ru',
